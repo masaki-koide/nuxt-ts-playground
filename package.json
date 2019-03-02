@@ -1,0 +1,15 @@
+{
+  "name": "nuxt-ts-playground",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "nuxt-ts": "^2.4.5",
+    "vue-property-decorator": "^7.3.0"
+  },
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "start": "nuxt-ts start",
+    "generate": "nuxt-ts generate"
+  }
+}
