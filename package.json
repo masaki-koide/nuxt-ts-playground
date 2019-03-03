@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@nuxtjs/axios": "^5.4.0",
     "nuxt-ts": "^2.4.5",
     "vue-property-decorator": "^7.3.0"
   },
