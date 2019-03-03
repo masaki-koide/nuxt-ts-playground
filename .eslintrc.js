@@ -14,8 +14,7 @@ module.exports = {
       "error",
       {
         "singleQuote": true,
-        "semi": false,
-        "tabWidth": 2
+        "semi": false
       }
     ]
   }
