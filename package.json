@@ -5,7 +5,8 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.4.0",
     "nuxt-ts": "^2.4.5",
-    "vue-property-decorator": "^7.3.0"
+    "vue-property-decorator": "^7.3.0",
+    "vuex-smart-module": "^0.2.1"
   },
   "scripts": {
     "dev": "nuxt-ts",
