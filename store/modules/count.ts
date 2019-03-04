@@ -11,8 +11,8 @@ class CountGetters extends Getters<CountState> {
 }
 
 class CountMutations extends Mutations<CountState> {
-  public increment(payload: number): number {
-    return (this.state.count += payload)
+  public increment(payload: number): void {
+    this.state.count += payload
   }
 }
 
